@@ -1,0 +1,7 @@
+<infomation>
+	<firstName><p>Имя:Ильяс</p></firstName>
+	<br><lastName><p>Фамилия:Краевой</p></lastName></br>
+	<br><years><p>Лет:25</p></years></br>
+        <br><pets><p>Домашние животные:Отсутствуют</p></pets></br>
+	<br><salary> <p> Ожидаемая зарплата:500</p></salary></br>
+</infomation>
