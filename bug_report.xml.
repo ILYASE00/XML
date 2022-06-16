@@ -1,0 +1,10 @@
+<infomation>
+	<Bug_report><p>Bug_report:..</p></Bug_report>
+	<br><Title><p>Title:...</p></Title></br>
+	<br><Summary><p>Summary:...</p></Summary></br>
+  <br><Precondition><p>Precondition:...</p></Precondition></br>
+	<br><Steps To Reproduce><p>Steps To Reproduce:../</p></Steps To Reproduce></br>
+  <br><Expected Result><p>Expected Result:../</p></Expected Result></br>
+  <br><Actual Result><p>Actual Result:../</p></Actual Result></br>
+  <br><Attachments><p>Attachments:../</p></Attachments></br>
+</infomation>
